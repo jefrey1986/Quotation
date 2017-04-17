@@ -1,0 +1,43 @@
+body {
+	width: 100%;
+	background: #55ACEE;
+	color: white;
+	text-align: center;
+	margin-top: 150px;
+}
+h1 {
+	font-size: 50px;
+	margin: 50px;
+}
+.tweet {
+	display: block;
+	width: 100%;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+.trigger {
+	border: 1px solid white;
+	background: #55ACEE;
+	width: 400px;
+	height: 50px;
+	margin: 20px;
+}
+.trigger:hover {
+	background : #0059b3;
+}
+.post {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.socialmedia {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.box {
+	margin-bottom: 100px;
+}
